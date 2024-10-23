@@ -17,7 +17,7 @@
 ## Preparing Data：
   Please follow their instructions to download the training and testing data.
 
-  bash download_data.sh raw_data raw_data_yfcc.tar.gz 0 8 ## YFCC100M
+  ```bash download_data.sh raw_data raw_data_yfcc.tar.gz 0 8 ## YFCC100M
   tar -xvf raw_data_yfcc.tar.gz
 
   bash download_data.sh raw_sun3d_test raw_sun3d_test.tar.gz 0 2 ## SUN3D
