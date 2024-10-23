@@ -26,7 +26,7 @@
   ```tar -xvf raw_sun3d_train.tar.gz```
   After downloading the datasets, the initial matches for YFCC100M and SUN3D can be generated as following. Here we provide descriptors   for SIFT (default), ORB, and SuperPoint.
   
-  ```cd dump_match```
+  cd dump_match
   python extract_feature.py
   python yfcc.py
   python extract_feature.py --input_path=../raw_data/sun3d_test
@@ -36,10 +36,10 @@
 
 ## Citing DHMNet
 If you find the DHMNet code useful, please consider citing
-@article{chen2024dhm,
+ ```@article{chen2024dhm,
   title={DHM-Net: Deep Hypergraph Modeling for Robust Feature Matching},
   author={Chen, Shunxing and Xiao, Guobao and Guo, Junwen and Wu, Qiangqiang and Ma, Jiayi},
   journal={IEEE Transactions on Image Processing},
   year={2024},
   publisher={IEEE}
-}
+} ```
