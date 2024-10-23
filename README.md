@@ -30,7 +30,7 @@ python yfcc.py
 python extract_feature.py --input_path=../raw_data/sun3d_test
 python sun3d.py```
 
-# Citing DHMNet:
+** Citing DHMNet:
 If you find the DHMNet code useful, please consider citing:
 @article{chen2024dhm,
   title={DHM-Net: Deep Hypergraph Modeling for Robust Feature Matching},
