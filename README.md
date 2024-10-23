@@ -1,5 +1,5 @@
-DHMNet
-DHM-Net: Deep Hypergraph Modeling for Robust Feature Matching
+**DHMNet**
+# DHM-Net: Deep Hypergraph Modeling for Robust Feature Matching
 
 DHMNet implementation
 Pytorch implementation of DHMNet
