@@ -39,10 +39,12 @@
 
 ## Citing DHMNet
 If you find the DHMNet code useful, please consider citing
- ```@article{chen2024dhm,
+```
+@article{chen2024dhm,
   title={DHM-Net: Deep Hypergraph Modeling for Robust Feature Matching},
   author={Chen, Shunxing and Xiao, Guobao and Guo, Junwen and Wu, Qiangqiang and Ma, Jiayi},
   journal={IEEE Transactions on Image Processing},
   year={2024},
   publisher={IEEE}
-} ```
+}
+```
